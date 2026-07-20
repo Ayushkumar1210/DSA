@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayushkumar1210/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushkumar1210/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ayushkumar1210/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkumar1210/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushkumar1210/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -86,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushkumar1210/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ayushkumar1210/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
