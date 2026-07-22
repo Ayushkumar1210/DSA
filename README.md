@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ayushkumar1210/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ayushkumar1210/DSA/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushkumar1210/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushkumar1210/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0207-course-schedule](https://github.com/Ayushkumar1210/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ayushkumar1210/DSA/tree/master/0547-number-of-provinces) |
 | [2258-escape-the-spreading-fire](https://github.com/Ayushkumar1210/DSA/tree/master/2258-escape-the-spreading-fire) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushkumar1210/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ayushkumar1210/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ayushkumar1210/DSA/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushkumar1210/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ayushkumar1210/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushkumar1210/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ayushkumar1210/DSA/tree/master/0027-remove-element) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ayushkumar1210/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
