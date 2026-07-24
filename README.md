@@ -90,10 +90,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushkumar1210/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushkumar1210/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ayushkumar1210/DSA/tree/master/0027-remove-element) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ayushkumar1210/DSA/tree/master/0207-course-schedule) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushkumar1210/DSA/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushkumar1210/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
