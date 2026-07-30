@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkumar1210/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Ayushkumar1210/DSA/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/Ayushkumar1210/DSA/tree/master/0189-rotate-array) |
+| [0213-house-robber-ii](https://github.com/Ayushkumar1210/DSA/tree/master/0213-house-robber-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushkumar1210/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayushkumar1210/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayushkumar1210/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushkumar1210/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/Ayushkumar1210/DSA/tree/master/0063-unique-paths-ii) |
+| [0213-house-robber-ii](https://github.com/Ayushkumar1210/DSA/tree/master/0213-house-robber-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ayushkumar1210/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
